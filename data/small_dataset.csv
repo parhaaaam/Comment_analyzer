@@ -1,0 +1,11 @@
+Comment,Sentiment
+"I love this product, it's absolutely wonderful!",positive
+"Terrible service, I'm very disappointed.",negative
+"The movie was okay, not great but not bad either.",neutral
+"Such an amazing experience, I had a great time!",positive
+"I really hate this, it's awful and a waste of time.",negative
+"This is fine, nothing special about it.",neutral
+"Fantastic performance, the best I've seen in years!",positive
+"Not what I expected, could be better.",negative
+"I'm indifferent about this, it doesn't excite me.",neutral
+"The quality is outstanding, exceeded my expectations!",positive
